@@ -1,0 +1,21 @@
+{
+  "name": "oregonpjkt",
+  "version": "1.0.0",
+  "description": "web dev with node & express book",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "express",
+    "server-side"
+  ],
+  "author": "nicosp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express3-handlebars": "^0.5.2"
+  }
+}
